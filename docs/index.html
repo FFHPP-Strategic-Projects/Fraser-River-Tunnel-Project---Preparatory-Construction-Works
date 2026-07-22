@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>RBT2 Document Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Hide from search engines -->
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="referrer" content="no-referrer">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container">
+      <div class="site-brand">
+        <!-- Replace with a small logo if desired: <img src="./assets/logo.svg" class="site-logo" alt="Organization"> -->
+        <img src="./assets/dfo-logo.png" alt="Fisheries and Oceans Canada" class="site-logo-img">
+        <div>
+          <h1 class="site-title">Fraser River Tunnel Project - Preparatory Construction Works</h1>
+          <p class="site-subtitle">Application for a <em>Fisheries Act</em> Authorization for the Fraser River Tunel Project (FRTP) Preparatory Construction Works (PCW) as submitted by the Transportaion Investment Corporation
+            (the Proponent).</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content" class="container" role="main">
+    <section class="section" aria-labelledby="about-title">
+      <p class="kicker">Project Description</p>
+      <p>The proposed Fraser River Tunel Project (FRTP) Preparatory Construction Works (PCW), the Project, includes construction and operation of a marine terminal, and construction of an extended tug basin, and widened causeway. 
+       The proposed Project is located adjacent to the existing Roberts Bank terminals.<p>
+
+        <p>The Project is undergoing the British Columbia (BC) environmental assessment (EA) process under the BC <em>Environmental Assessment Act</em>, with a decision made by the Governor in Council to allow the Project to 
+          proceed to permitting subject to conditions on April 20, 2024. The Project's PCW FAA has been deemed complete and adequate with respect to DFO's application requirements and DFO is in the process of conducting Indigenous consultation 
+          for the FRTP PCW <em>Fisheries Act</em> Authorization (FAA) application.</p>
+
+        <p>DFO is of the view that the Project as proposed is likely to result in the death of fish by means other than fishing and the harmful alteration, disruption or destruction (HADD) of fish habitat. 
+          If issued, an FAA would allow the carrying on of works, undertakings or activities that would result in the death of fish by means other than fishing and/or HADD of fish habitat.</p>
+          
+        <p>This page provides official PDF documents of the FAA Application for stakeholders to review. Materials are unclassified and provided for reference. Please share links, or 
+        downloaded files directly with the intended recipients.</p>
+    </section>
+
+    <section class="section" aria-labelledby="library-title">
+      <div class="section-header">
+        <div>
+          <p class="kicker" style="margin-top:0;">Document Library</p>
+          <h2 id="library-title" style="margin:0;">Available Documents</h2>
+        </div>
+        <div class="tools">
+          <label for="search" class="visually-hidden">Search documents</label>
+          <input id="search" type="search" placeholder="Search documents…" autocomplete="off">
+        </div>
+      </div>
+
+      <!-- HOW TO ADD:
+           Duplicate a <li class="doc"> block; update:
+             - data-title (for search)
+             - .doc-title (visible)
+             - .doc-meta (optional: date/version)
+             - href and data-link to ./pdfs/<YourFile>.pdf
+      -->
+      <ul id="doc-list" class="doc-list" aria-live="polite">
+           <li class="doc" data-title="Draft Conditions: Batch 1">
+          <div class="doc-body">
+            <h3 class="doc-title">Template for Indigenous Comments or Issues</h3>
+            <p class="doc-meta">PDF • v1.0 • Uploaded July 2026</p>
+          </div>
+          <div class="doc-actions">
+            <a class="btn btn-primary" href="./pdfs/Project_Overview_2026.pdf" download>Download</a>
+          </div>
+        </li>
+        
+        <li class="doc" data-title="Application">
+          <div class="doc-body">
+            <h3 class="doc-title">Application</h3>
+            <p class="doc-meta">PDF • v1.0 • Uploaded July 2026</p>
+          </div>
+          <div class="doc-actions">
+            <a class="btn btn-primary" href="./pdfs/Project_Overview_2026.pdf" download>Download</a>
+          </div>
+        </li>
+
+        <li class="doc" data-title="Application Appendices">
+          <div class="doc-body">
+            <h3 class="doc-title">Application Appendices</h3>
+            <p class="doc-meta">PDF • v1.0 • Upload July 2026</p>
+          </div>
+          <div class="doc-actions">
+            <a class="btn btn-primary" href="./pdfs/Stakeholder_Briefing_Note.pdf" download>Download</a>
+          </div>
+        </li>
+      </ul>
+      <p class="empty-state" hidden>No documents match your search.</p>
+    </section>
+
+    <section class="section" aria-labelledby="contact-title">
+      <p class="kicker" style="margin-top:0;">Contact</p>
+      <h2 id="contact-title" style="margin:0;">Project Team</h2>
+      <p>For questions about these materials, please contact Sara Jossul at Sara.Jossul@dfo-mpo.gc.ca.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <p>© <span id="year"></span> Document Library • Unclassified materials • For stakeholder distribution</p>
+    </div>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>
