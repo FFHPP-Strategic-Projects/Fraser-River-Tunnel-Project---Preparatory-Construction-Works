@@ -1,2 +1,12 @@
 # Fraser-River-Tunnel-Project---Preparatory-Construction-Works
 Application for a Fisheries Act Authorization for the Fraser River Tunnel Project (FRTP) Preparatory Construction Works (PCW) as submitted by the Transportation Investment Corporation (the Proponent).
+
+The FRTP is a multi-year project that includes the construction of a new eight-lane, immersed tube tunnel to replace the existing George Massey Tunnel (GMT). The FRTP also includes the replacement of the existing Deas Island Bridge, the construction of Highway 99 connections north (Richmond) and south (Delta) of the tunnel, and eventual filling the decommissioned GMT. It should be noted that Fisheries and Oceans Canada (DFO) Fish and Fish Habitat Protection Program (FFHPP) is only responsible for reviewing projects or works, undertakings, and activities that have the potential to negatively impact fish and/or fish habitat. Thus, the project application that DFO has received is significantly scoped down from the larger FRTP that Lummi Nation previously reviewed during the British Columbia (BC) Environmental Assessment (EA) process.
+
+This application is for the first phase of the FRTP, the preparatory construction works only (a second application for the main tunnel construction works will be submitted later in 2026, or early 2027).
+
+This first phase of the FRTP requires the completion of the essential preparatory works which include the construction of temporary structures (e.g. access trestles and jetties), conducting ground improvements, preparing work areas (e.g. fencing, grading, drainage implementation, and vegetation removal), site remediation, utility establishment, construction and installation of support facilities (e.g. concrete batching and cranes), and addressing transportation adjustments (e.g. highway tie-ins and rail diversions).
+
+DFO is of the view that the Project as proposed is likely to result in the death of fish by means other than fishing and the harmful alteration, disruption or destruction (HADD) of fish habitat. If issued, an FAA would allow the carrying on of works, undertakings or activities that would result in the death of fish by means other than fishing and/or HADD of fish habitat.
+
+This page provides official PDF documents of the FAA Application for Lummi Nation to review. Materials are unclassified and provided for reference. Please share links, or downloaded files directly with the intended recipients.
